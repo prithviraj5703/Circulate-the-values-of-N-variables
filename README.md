@@ -30,7 +30,8 @@ def circulate():
   print('After circulating the values are:', rot)
   ```
 ## Output:
-![outpu](circulate.png)
+![image](https://github.com/user-attachments/assets/d4ef0455-e3c6-4b57-9b5a-1b37889a8315)
+
 
 ## Result:
 by this program we can circulate the values of this program
